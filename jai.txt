@@ -1,2 +1,2 @@
 This is first jai file in git project.
-hahahahahaha
+now lets begin start with git hub.
